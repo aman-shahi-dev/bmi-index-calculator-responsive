@@ -6,7 +6,7 @@ A simple, clean and **fully responsive** BMI (Body Mass Index) calculator built 
 
 ## Live Preview
 
-- [Check it out]()
+- [Check it out](https://aman-shahi-dev.github.io/bmi-index-calculator-responsive/)
 
 ---
 
