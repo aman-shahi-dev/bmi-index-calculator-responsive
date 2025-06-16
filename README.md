@@ -57,6 +57,8 @@ Example:
 If weight = 70 kg and height = 170 cm (1.7 m)
 BMI = 70 / (1.7 * 1.7) = 24.22
 
+---
+
 🙌 Contribution
 Have suggestions or want to improve the project?
 Feel free to fork it, open issues, or submit a pull request.
